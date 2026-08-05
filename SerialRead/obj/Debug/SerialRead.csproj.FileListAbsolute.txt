@@ -1,0 +1,10 @@
+C:\Users\emir\Desktop\SerialRead\bin\Debug\SerialRead.exe.config
+C:\Users\emir\Desktop\SerialRead\bin\Debug\SerialRead.exe
+C:\Users\emir\Desktop\SerialRead\bin\Debug\SerialRead.pdb
+C:\Users\emir\Desktop\SerialRead\obj\Debug\SerialRead.csproj.AssemblyReference.cache
+C:\Users\emir\Desktop\SerialRead\obj\Debug\SerialRead.Form1.resources
+C:\Users\emir\Desktop\SerialRead\obj\Debug\SerialRead.Properties.Resources.resources
+C:\Users\emir\Desktop\SerialRead\obj\Debug\SerialRead.csproj.GenerateResource.cache
+C:\Users\emir\Desktop\SerialRead\obj\Debug\SerialRead.csproj.CoreCompileInputs.cache
+C:\Users\emir\Desktop\SerialRead\obj\Debug\SerialRead.exe
+C:\Users\emir\Desktop\SerialRead\obj\Debug\SerialRead.pdb
